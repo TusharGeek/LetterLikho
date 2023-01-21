@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LetterLikho/static/css/main.537d75cc.css",
-    "main.js": "/LetterLikho/static/js/main.a7d03a8a.js",
+    "main.css": "/LetterLikho/static/css/main.5d4ac4b0.css",
+    "main.js": "/LetterLikho/static/js/main.9e000b7b.js",
     "static/media/LetterLikho.PNG": "/LetterLikho/static/media/LetterLikho.763c8da5c79cb0452caa.PNG",
     "index.html": "/LetterLikho/index.html",
-    "main.537d75cc.css.map": "/LetterLikho/static/css/main.537d75cc.css.map",
-    "main.a7d03a8a.js.map": "/LetterLikho/static/js/main.a7d03a8a.js.map"
+    "main.5d4ac4b0.css.map": "/LetterLikho/static/css/main.5d4ac4b0.css.map",
+    "main.9e000b7b.js.map": "/LetterLikho/static/js/main.9e000b7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.537d75cc.css",
-    "static/js/main.a7d03a8a.js"
+    "static/css/main.5d4ac4b0.css",
+    "static/js/main.9e000b7b.js"
   ]
 }
