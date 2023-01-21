@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/LetterLikho/static/css/main.5d4ac4b0.css",
-    "main.js": "/LetterLikho/static/js/main.9e000b7b.js",
+    "main.css": "/LetterLikho/static/css/main.18a47117.css",
+    "main.js": "/LetterLikho/static/js/main.587a23b6.js",
+    "static/js/498.02c09033.chunk.js": "/LetterLikho/static/js/498.02c09033.chunk.js",
+    "static/js/703.989adf46.chunk.js": "/LetterLikho/static/js/703.989adf46.chunk.js",
+    "static/js/9.7287405b.chunk.js": "/LetterLikho/static/js/9.7287405b.chunk.js",
     "static/media/LetterLikho.PNG": "/LetterLikho/static/media/LetterLikho.763c8da5c79cb0452caa.PNG",
     "index.html": "/LetterLikho/index.html",
-    "main.5d4ac4b0.css.map": "/LetterLikho/static/css/main.5d4ac4b0.css.map",
-    "main.9e000b7b.js.map": "/LetterLikho/static/js/main.9e000b7b.js.map"
+    "main.18a47117.css.map": "/LetterLikho/static/css/main.18a47117.css.map",
+    "main.587a23b6.js.map": "/LetterLikho/static/js/main.587a23b6.js.map",
+    "498.02c09033.chunk.js.map": "/LetterLikho/static/js/498.02c09033.chunk.js.map",
+    "703.989adf46.chunk.js.map": "/LetterLikho/static/js/703.989adf46.chunk.js.map",
+    "9.7287405b.chunk.js.map": "/LetterLikho/static/js/9.7287405b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d4ac4b0.css",
-    "static/js/main.9e000b7b.js"
+    "static/css/main.18a47117.css",
+    "static/js/main.587a23b6.js"
   ]
 }
