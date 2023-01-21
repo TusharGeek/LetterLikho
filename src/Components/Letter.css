@@ -1,0 +1,9 @@
+.Input{
+ border-style: none none solid none ;
+ border-width:2px ;
+ width:min-content;
+}
+
+.Input:focus{
+    outline: none;
+}
