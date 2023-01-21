@@ -12,7 +12,7 @@ const Letter = () => {
     
     
     return (
-        <div className="max-w-3xl m-auto my-10 h-full w-full">
+        <div style={{border:"2px solid" , borderColor:"#EEEEEE"}} className="max-w-3xl m-auto my-10 h-full w-full p-5">
          <div>
             <p className=" text-sm "><input className="Input" placeholder="To"></input><br/>
             <input className="Input" placeholder="Department Name"></input><br/>
@@ -25,7 +25,7 @@ const Letter = () => {
             </p>
             {/* Main Body */}
             <p className="text-sm">
-            I am writing to request a fee concession for the upcoming semester. Due to <input size="50" className="Input" placeholder="Add Specific Reason"></input>, I am currently facing financial difficulties and am unable to pay the full amount of tuition and fees.
+            I am writing to request a fee concession for the upcoming semester. Due to <input size="30" className="Input" placeholder="Add Specific Reason"></input>, I am currently facing financial difficulties and am unable to pay the full amount of tuition and fees.
 
 I am a hard-working and dedicated student, and I am committed to completing my education at <input className="Input" placeholder="College Name"></input>. However, without a fee concession, I fear that I will not be able to continue my studies.
 
@@ -49,7 +49,6 @@ Sincerely,
 <br></br>
 Signature
             </p>
-      
          </div>
         </div>
     )
